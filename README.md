@@ -42,9 +42,8 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CallStorm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CallStorm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
+![Stats](https://stats.programcx.cn/api?username=CallStorm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166)
+![Langs](https://stats.programcx.cn/api/top-langs?username=CallStorm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
 </div>
 
